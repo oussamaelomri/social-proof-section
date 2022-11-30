@@ -19,7 +19,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Github](https://github.com/oussamaelomri/social-Proof-Section)
+- Solution URL: [Github](https://oussamaelomri.github.io/social-proof-section/)
 - Live Site URL: [Live](https://your-live-site-url.com)
 
 ## My process
